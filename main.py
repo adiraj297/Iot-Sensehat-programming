@@ -1,9 +1,3 @@
-#IoT Assignment 1 - COSC2755
-#Created by:
-#   Samit Sharma
-#   s3752136
-#   01/04/2020
-
 #Sense Hat imports
 from sense_hat import SenseHat
 from time import sleep
