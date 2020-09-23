@@ -1,9 +1,5 @@
-## Assignment 1 for Programming of Internet of Things (COSC2755)
+## Programming of Internet of Things (COSC2755)
 
-### Group 36
-### Members
-###   Samit Sharma (s3752136)
-###   Aditya Raj (s3730562)
 
 #### Instructions to download and run
 
