@@ -1,8 +1,3 @@
-#IoT Assignment 1 - COSC2755
-#Created by:
-#   Aditya Raj/Samit Sharma
-#   s3730562/s3752136
-#   29/03/2020
 
 from sense_hat import SenseHat
 import time
