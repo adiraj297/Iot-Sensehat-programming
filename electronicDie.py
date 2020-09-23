@@ -1,9 +1,3 @@
-#IoT Assignment 1 - COSC2755
-#Created by:
-#   Samit Sharma
-#   s3730562
-#   01/04/2020
-
 from sense_hat import SenseHat
 from random import randint
 import time
