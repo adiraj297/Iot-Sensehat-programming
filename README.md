@@ -1,4 +1,4 @@
-# Programming of Internet of Things (COSC2755)
+# Programming of Internet of Things Using a Raspberry Pi and Sense Hat 
 
 # Description:
 The following project was developed as a part of Internet of Things, otherwise known as IOT for the Raspberry Pi utilising the sense hat attachment. The project essentially lets the user use the joystick on the pi to browse through a menu which has various programs of different display capabilities. 
